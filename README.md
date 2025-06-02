@@ -38,6 +38,7 @@ See more on my [Credential Platform profile](https://credentials.offsec.com/prof
 
 ## Articles ✍️  
 I occasionally write about practical security topics based on my experience.
+- **[Ready_ Wasn’t Ready – Four Critical Vulnerabilities in Symfonia eDokumenty](https://afine.com/ready_-wasnt-ready-four-critical-vulnerabilities-in-symfonia-edokumenty/)**
 - **[SQL Injection in the Age of ORM: Risks, Mitigations, and Best Practices](https://afine.com/sql-injection-in-the-age-of-orm-risks-mitigations-and-best-practices/)**
 - **[Understanding and Mitigating TOCTOU Vulnerabilities in C# Applications](https://afine.com/understanding-and-mitigating-toctou-vulnerabilities-in-c-applications/)**  
 - *(More articles coming soon!)*
