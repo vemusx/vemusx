@@ -8,6 +8,7 @@ I'm an offensive security engineer focused on making software harder to break. I
 
 ## Vulnerability Research 🔬
 Here are some vulnerabilities I've discovered.
+- [**CVE-2025-8533**: Fantastical - Incorrect Authorization of XPC Service](https://www.cve.org/CVERecord?id=CVE-2025-8533)
 - [**CVE-2024-10864**: OpenText Advanced Authentication - SQL Injection](https://www.cve.org/CVERecord?id=CVE-2024-10864)
 - [**CVE-2024-10865**: OpenText Advanced Authentication - Reflected Cross-Site Scripting (XSS)](https://www.cve.org/CVERecord?id=CVE-2024-10865)
 - [**CVE-2025-1983**: Ready_ (Symfonia) - Stored Cross-Site Scripting (XSS)](https://www.cve.org/CVERecord?id=CVE-2025-1983)
