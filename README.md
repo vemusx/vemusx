@@ -38,6 +38,7 @@ Here are some vulnerabilities I've discovered during my work.
 
 ## Articles ✍️  
 I occasionally write about security topics based on my experience.
+- **[Pickle Deserialization in ML Pipelines: The RCE That Won't Go Away](https://afine.com/blogs/pickle-deserialization-in-ml-pipelines-the-rce-that-wont-go-away)**
 - **[Beyond the Surface – Digging Into CVE-2024-10864 & CVE-2024-10865 in NetIQ Advanced Authentication](https://afine.com/beyond-the-surface-digging-into-cve-2024-10864-cve-2024-10865-in-netiq-advanced-authentication/)**
 - **[Null Pointer Exceptions: From Java’s Pitfalls to Kotlin’s Solutions](https://afine.com/null-pointer-exceptions-from-javas-pitfalls-to-kotlins-solutions/)**
 - **[Ready_ Wasn’t Ready – Four Critical Vulnerabilities in Symfonia eDokumenty](https://afine.com/ready_-wasnt-ready-four-critical-vulnerabilities-in-symfonia-edokumenty/)**
